@@ -1,2 +1,2 @@
 # Python-Assignments
-Its read me file for fibonnaci series
+Read me file for fibonnaci series
