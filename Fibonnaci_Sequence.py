@@ -8,8 +8,8 @@
 """
 
 #Initialise the varianles required
-num1=1
-num2=1
+num1=input("Enter first no:")
+num2=input("Enter second no:")
 count=0
 Series_Length=input("Enter the length up to which you want fibonnaci series :=")
 
