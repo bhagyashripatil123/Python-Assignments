@@ -11,7 +11,7 @@
 num1=1
 num2=1
 count=0
-Series_Length=input("Enter the length up to which you want fibonnaci series:")
+Series_Length=input("Enter the length up to which you want fibonnaci series :=")
 
 #Loop o print fibonnaci series
 while int(count)<int(Series_Length):
